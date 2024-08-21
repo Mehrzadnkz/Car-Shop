@@ -25,12 +25,12 @@ a {
     background-color: #ffff0080;
 }
 
-#giul-0 {
+#ul-0 {
     width: 100px;
     height: 100px;
 }
 
-a:hover+.submenu {
+li a:hover+.submenu {
     display: block;
 }
 
