@@ -30,8 +30,9 @@ a {
     height: 100px;
 }
 
-li a:hover+.submenu {
-    display: block;
+details {
+    display: flex;
+    flex-direction: column;
 }
 
 .header2 {
